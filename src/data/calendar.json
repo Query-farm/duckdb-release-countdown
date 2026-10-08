@@ -1,0 +1,536 @@
+{
+  "source": "https://duckdb.org/release_calendar",
+  "fetchedAt": "2026-10-08T02:52:06.174Z",
+  "upcoming": [
+    {
+      "date": "2026-10-21",
+      "version": "2.0.0",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/release_calendar#upcoming-releases"
+    },
+    {
+      "date": "2026-11-18",
+      "version": "2.0.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/release_calendar#upcoming-releases"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-09-28",
+      "version": "1.5.6",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/09/28/announcing-duckdb-156"
+    },
+    {
+      "date": "2026-07-22",
+      "version": "1.5.5",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/07/22/announcing-duckdb-155"
+    },
+    {
+      "date": "2026-06-17",
+      "version": "1.5.4",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/06/17/announcing-duckdb-154"
+    },
+    {
+      "date": "2026-05-20",
+      "version": "1.5.3",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/05/20/announcing-duckdb-153"
+    },
+    {
+      "date": "2026-04-13",
+      "version": "1.5.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152"
+    },
+    {
+      "date": "2026-03-23",
+      "version": "1.5.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/03/23/announcing-duckdb-151"
+    },
+    {
+      "date": "2026-03-09",
+      "version": "1.5.0",
+      "lts": false,
+      "codename": "Variegata",
+      "endOfLife": "2026-11-01",
+      "url": "https://duckdb.org/2026/03/09/announcing-duckdb-150"
+    },
+    {
+      "date": "2026-06-17",
+      "version": "1.4.5",
+      "lts": true,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/06/17/announcing-duckdb-145"
+    },
+    {
+      "date": "2026-01-27",
+      "version": "1.4.4",
+      "lts": true,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2026/01/26/announcing-duckdb-144"
+    },
+    {
+      "date": "2025-12-09",
+      "version": "1.4.3",
+      "lts": true,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2025/12/09/announcing-duckdb-143"
+    },
+    {
+      "date": "2025-11-12",
+      "version": "1.4.2",
+      "lts": true,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2025/11/12/announcing-duckdb-142"
+    },
+    {
+      "date": "2025-10-07",
+      "version": "1.4.1",
+      "lts": true,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://duckdb.org/2025/10/07/announcing-duckdb-141"
+    },
+    {
+      "date": "2025-09-16",
+      "version": "1.4.0",
+      "lts": true,
+      "codename": "Andium",
+      "endOfLife": "2026-11-17",
+      "url": "https://duckdb.org/2025/09/16/announcing-duckdb-140"
+    },
+    {
+      "date": "2025-07-08",
+      "version": "1.3.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.3.2"
+    },
+    {
+      "date": "2025-06-16",
+      "version": "1.3.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.3.1"
+    },
+    {
+      "date": "2025-05-21",
+      "version": "1.3.0",
+      "lts": false,
+      "codename": "Ossivalis",
+      "endOfLife": "2025-09-16",
+      "url": "https://duckdb.org/2025/05/21/announcing-duckdb-130"
+    },
+    {
+      "date": "2025-04-08",
+      "version": "1.2.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.2.2"
+    },
+    {
+      "date": "2025-03-05",
+      "version": "1.2.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.2.1"
+    },
+    {
+      "date": "2025-02-05",
+      "version": "1.2.0",
+      "lts": false,
+      "codename": "Histrionicus",
+      "endOfLife": "2025-05-21",
+      "url": "https://duckdb.org/2025/02/05/announcing-duckdb-120"
+    },
+    {
+      "date": "2024-11-04",
+      "version": "1.1.3",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.1.3"
+    },
+    {
+      "date": "2024-10-14",
+      "version": "1.1.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.1.2"
+    },
+    {
+      "date": "2024-09-24",
+      "version": "1.1.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.1.1"
+    },
+    {
+      "date": "2024-09-09",
+      "version": "1.1.0",
+      "lts": false,
+      "codename": "Eatoni",
+      "endOfLife": "2025-02-05",
+      "url": "https://duckdb.org/2024/09/09/announcing-duckdb-110"
+    },
+    {
+      "date": "2024-06-03",
+      "version": "1.0.0",
+      "lts": false,
+      "codename": "Nivis",
+      "endOfLife": "2024-09-09",
+      "url": "https://duckdb.org/2024/06/03/announcing-duckdb-100"
+    },
+    {
+      "date": "2024-05-22",
+      "version": "0.10.3",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.10.3"
+    },
+    {
+      "date": "2024-04-17",
+      "version": "0.10.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.10.2"
+    },
+    {
+      "date": "2024-03-18",
+      "version": "0.10.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.10.1"
+    },
+    {
+      "date": "2024-02-13",
+      "version": "0.10.0",
+      "lts": false,
+      "codename": "Fusca",
+      "endOfLife": "2024-06-03",
+      "url": "https://duckdb.org/2024/02/13/announcing-duckdb-0100"
+    },
+    {
+      "date": "2023-11-14",
+      "version": "0.9.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.9.2"
+    },
+    {
+      "date": "2023-10-11",
+      "version": "0.9.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.9.1"
+    },
+    {
+      "date": "2023-09-26",
+      "version": "0.9.0",
+      "lts": false,
+      "codename": "Undulata",
+      "endOfLife": null,
+      "url": "https://duckdb.org/2023/09/26/announcing-duckdb-090"
+    },
+    {
+      "date": "2023-06-13",
+      "version": "0.8.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.8.1"
+    },
+    {
+      "date": "2023-05-17",
+      "version": "0.8.0",
+      "lts": false,
+      "codename": "Fulvigula",
+      "endOfLife": null,
+      "url": "https://duckdb.org/2023/05/17/announcing-duckdb-080"
+    },
+    {
+      "date": "2023-02-27",
+      "version": "0.7.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.7.1"
+    },
+    {
+      "date": "2023-02-13",
+      "version": "0.7.0",
+      "lts": false,
+      "codename": "Labradorius",
+      "endOfLife": null,
+      "url": "https://duckdb.org/2023/02/13/announcing-duckdb-070"
+    },
+    {
+      "date": "2022-12-06",
+      "version": "0.6.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.6.1"
+    },
+    {
+      "date": "2022-11-14",
+      "version": "0.6.0",
+      "lts": false,
+      "codename": "Oxyura",
+      "endOfLife": null,
+      "url": "https://duckdb.org/2022/11/14/announcing-duckdb-060"
+    },
+    {
+      "date": "2022-09-19",
+      "version": "0.5.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.5.1"
+    },
+    {
+      "date": "2022-09-05",
+      "version": "0.5.0",
+      "lts": false,
+      "codename": "Pulchellus",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.5.0"
+    },
+    {
+      "date": "2022-06-20",
+      "version": "0.4.0",
+      "lts": false,
+      "codename": "Ferruginea",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.4.0"
+    },
+    {
+      "date": "2022-04-25",
+      "version": "0.3.4",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.3.4"
+    },
+    {
+      "date": "2022-04-11",
+      "version": "0.3.3",
+      "lts": false,
+      "codename": "Sansaniensis",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.3.3"
+    },
+    {
+      "date": "2022-02-07",
+      "version": "0.3.2",
+      "lts": false,
+      "codename": "Gibberifrons",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.3.2"
+    },
+    {
+      "date": "2021-11-16",
+      "version": "0.3.1",
+      "lts": false,
+      "codename": "Spectabilis",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.3.1"
+    },
+    {
+      "date": "2021-10-06",
+      "version": "0.3.0",
+      "lts": false,
+      "codename": "Gracilis",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.3.0"
+    },
+    {
+      "date": "2021-09-06",
+      "version": "0.2.9",
+      "lts": false,
+      "codename": "Platyrhynchos",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.9"
+    },
+    {
+      "date": "2021-08-02",
+      "version": "0.2.8",
+      "lts": false,
+      "codename": "Ceruttii",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.8"
+    },
+    {
+      "date": "2021-06-14",
+      "version": "0.2.7",
+      "lts": false,
+      "codename": "Mollissima",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.7"
+    },
+    {
+      "date": "2021-05-08",
+      "version": "0.2.6",
+      "lts": false,
+      "codename": "Jamaicensis",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.6"
+    },
+    {
+      "date": "2021-03-10",
+      "version": "0.2.5",
+      "lts": false,
+      "codename": "Falcata",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.5"
+    },
+    {
+      "date": "2021-02-02",
+      "version": "0.2.4",
+      "lts": false,
+      "codename": "Jubata",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.4"
+    },
+    {
+      "date": "2020-12-03",
+      "version": "0.2.3",
+      "lts": false,
+      "codename": "Serrator",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.3"
+    },
+    {
+      "date": "2020-11-01",
+      "version": "0.2.2",
+      "lts": false,
+      "codename": "Clypeata",
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.2"
+    },
+    {
+      "date": "2020-08-29",
+      "version": "0.2.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.1"
+    },
+    {
+      "date": "2020-07-23",
+      "version": "0.2.0",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.2.0"
+    },
+    {
+      "date": "2020-06-19",
+      "version": "0.1.9",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.9"
+    },
+    {
+      "date": "2020-05-29",
+      "version": "0.1.8",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.8"
+    },
+    {
+      "date": "2020-05-04",
+      "version": "0.1.7",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.7"
+    },
+    {
+      "date": "2020-04-05",
+      "version": "0.1.6",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.6"
+    },
+    {
+      "date": "2020-03-02",
+      "version": "0.1.5",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.5"
+    },
+    {
+      "date": "2020-02-03",
+      "version": "0.1.3",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.3"
+    },
+    {
+      "date": "2020-01-06",
+      "version": "0.1.2",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.2"
+    },
+    {
+      "date": "2019-09-24",
+      "version": "0.1.1",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.1"
+    },
+    {
+      "date": "2019-06-27",
+      "version": "0.1.0",
+      "lts": false,
+      "codename": null,
+      "endOfLife": null,
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v0.1.0"
+    }
+  ]
+}

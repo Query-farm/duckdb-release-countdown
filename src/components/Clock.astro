@@ -1,0 +1,17 @@
+---
+interface Props { id: string; large?: boolean; }
+const { id, large = false } = Astro.props;
+const units = ['days', 'hours', 'minutes', 'seconds'] as const;
+---
+<div id={id} class:list={['clock', { 'clock-large': large }]} role="timer" aria-label="Clock loading">
+  <div class="clock-units" aria-hidden="true">
+    {units.map((unit) => (
+      <div class={`clock-unit unit-${unit}`}>
+        <div class="digits" data-unit={unit}>
+          {Array.from({ length: unit === 'days' ? 3 : 2 }, () => <span class="digit">–</span>)}
+        </div>
+        <span class="unit-label">{unit}</span>
+      </div>
+    ))}
+  </div>
+</div>
